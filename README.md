@@ -1,4 +1,11 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# 2048 Game
+
+This project is clone of popular 2048 game.
+
+In this project I have learned how to interact with browsers events and DOM.
+
+I developed this project using JavaScript.
+
+## Useful links:
+    - [DEMO LINK](https://yuran007.github.io/js_2048/)
+    - [Reference](https://play2048.co/)
